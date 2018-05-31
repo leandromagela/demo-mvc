@@ -21,3 +21,6 @@ https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/#com
 
 Setting value to specific attributes
 https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#setting-value-to-specific-attributes
+
+String
+https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#strings
