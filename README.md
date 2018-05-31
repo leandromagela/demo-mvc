@@ -18,3 +18,6 @@ https://www.webjars.org/
 
 Common application properties:<br />
 https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/#common-application-properties
+
+Setting value to specific attributes
+https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#setting-value-to-specific-attributes
