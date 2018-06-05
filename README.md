@@ -33,3 +33,6 @@ https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#literal-substitu
 
 Module for Java 8 Time API compatibility:<br />
 https://github.com/thymeleaf/thymeleaf-extras-java8time
+
+Bean Validation:<br />
+http://beanvalidation.org/
