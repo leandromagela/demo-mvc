@@ -36,3 +36,6 @@ https://github.com/thymeleaf/thymeleaf-extras-java8time
 
 Bean Validation:<br />
 http://beanvalidation.org/
+
+Unicode Table:<br />
+https://unicode-table.com/pt/
